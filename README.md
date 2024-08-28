@@ -1,5 +1,5 @@
 ## Hi there 👋
-📚 Student @ Business College Helsinki - [(Koodaajakoulutus – WordPress, PHP & React)
+📚 Student @ Business College Helsinki - [Koodaajakoulutus – WordPress, PHP & React
 ](https://www.bc.fi/koulutukset/koodaajakoulutus-wordpress-php-react)
 
 <!-- **Waltsuuuu/waltsuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
