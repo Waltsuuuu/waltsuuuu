@@ -1,6 +1,6 @@
 ## Hi there 👋
 📚 Student @ Business College Helsinki - [Koodaajakoulutus – WordPress, PHP & React
-](https://www.bc.fi/koulutukset/koodaajakoulutus-wordpress-php-react)
+](https://www.bc.fi/koulutukset/koodaajakoulutus-wordpress-php-react) <br/>
 💼 My Business College Portfolio - [bc-portfolio.waltteriheino.com](https://bc-portfolio.waltteriheino.com/)
 
 <!-- **Waltsuuuu/waltsuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
